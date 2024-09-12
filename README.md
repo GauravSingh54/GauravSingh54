@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on an Uber Clone App<br><br>🌱 I’m currently learning App Development<br><br>👯 I’m looking to collaborate on App Development Projects<br><br>📫 How to reach me connect.grv1.tech<br><br>⚡ Fun fact I play Valorant.
+<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
+<h1>💫 About Me:</h1>
+🔭 I’m currently working on an Uber Clone App<br><br>🌱 I’m currently learning App Development<br><br>👯 I’m looking to collaborate on App Development Projects<br><br>📫 How to reach me: [Connect](https://connect.grv1.tech))<br><br>⚡ Fun fact I play Valorant.
 
 
 ## 🌐 Socials:
