@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I play Valorant.**
 
-- 🤝 [Connect](gauravsingh18.netlify.app)
+- 🤝 [Connect](connect.grv1.me)
 
 
 ## 🌐 Socials:
