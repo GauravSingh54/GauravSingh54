@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h1>💫 About Me:</h1>
 
-- 🔭 I’m currently working on **Uber Clone**
+- 🔭 I’m currently working on **Investing App**
 
 - 🌱 I’m currently learning **App Development**
 
