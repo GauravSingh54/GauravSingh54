@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **App Development Projects**
 
-- 📫 How to reach me **i@grv1.tech**
-
 - ⚡ Fun fact **I play Valorant.**
 
 - 🤝 [Connect](connect.grv1.me)
