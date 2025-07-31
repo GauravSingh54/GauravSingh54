@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I play Valorant.**
 
-- 🤝 [Connect](connect.grv1.me)
+- 🤝 [Portfolio](portfolio.grv1.me)
 
 
 ## 🌐 Socials:
